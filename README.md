@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nileshkr022&label=Profile%20views&color=0e75b6&style=flat" alt="nileshkr022" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nileshkr022" alt="nileshkr022" /></a> </p>
-[![An image of @nileshkr022's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nileshkr022)](https://holopin.io/@nileshkr022)
+https://holopin.me/nileshkr022
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
