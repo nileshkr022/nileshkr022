@@ -4,16 +4,16 @@
 I’m a B.Tech CSE student at IIIT Bhagalpur and currently exploring full-stack development while working as a freelance tester on UTest.
 
 🔧 What I'm Working With:  
-Building projects using the MERN stack and working with tools like Postman, Insomnia, Firebase, Cloudinary, and Razorpay.
+Building projects using the MERN stack and working with tools like Postman, Firebase, Cloudinary, Razorpay, and shadcn/ui.
 
-💡 Learning Journey:
+💡 Learning Journey:  
 Currently exploring new technologies like Python and Go while continuously improving through hands-on development and problem solving.
 
 🏆 Highlights:
-• Knight on LeetCode (1876) with 750+ solved problems  
-• TCS CodeVita 2025 qualifier  
-• Smart India Hackathon participant  
-• Hacktoberfest 2024 contributor
+- Knight on LeetCode (1876) with 750+ solved problems  
+- TCS CodeVita 2025 qualifier  
+- Smart India Hackathon participant  
+- Hacktoberfest 2024 contributor  
 
 ---
 
@@ -25,17 +25,20 @@ Currently exploring new technologies like Python and Go while continuously impro
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-black?style=for-the-badge&logo=shadcnui&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ### 🔧 Backend & Dev Tools:
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%234ea94b.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
@@ -53,12 +56,9 @@ Currently exploring new technologies like Python and Go while continuously impro
 ![](https://github-readme-stats.vercel.app/api?username=Aneal07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Aneal07&theme=dark&hide_border=false)<br/>
 
-## Languages Used:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aneal07&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ---
 
-## GitHub and Holopin Badges:
+## GitHub Trophies:
 
 ![](https://github-profile-trophy.vercel.app/?username=Aneal07&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 
