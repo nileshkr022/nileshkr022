@@ -58,7 +58,7 @@ Currently exploring new technologies like Python and Go while continuously impro
 
 ---
 
-## GitHub Trophies:
+## GitHub and Holopin badges:
 
 ![](https://github-profile-trophy.vercel.app/?username=Aneal07&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 
